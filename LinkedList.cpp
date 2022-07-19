@@ -352,7 +352,7 @@ int main()
 	Insert_LastNode (&l, 20);
 	Insert_LastNode (&l, 30);
 	Insert_LastNode (&l, 40);
-  Insert_LastNode (&l, 50);
+	Insert_LastNode (&l, 50);
 	Insert_LastNode (&l, 50);
 	Insert_LastNode (&l, 50);
 	Insert_LastNode (&l, 50);
